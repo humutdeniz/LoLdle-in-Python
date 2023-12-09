@@ -3,7 +3,7 @@ champdict={
     "Katarina" :    {"Species":"Female"     , "Nation":"Noxus"      ,"Position":"Mid"       , "Resource":"No Mana"  , "Range":"Melee"},
     "Zac" :         {"Species":"Creature"   , "Nation":"Zaun"       ,"Position":"Jungle"    , "Resource":"Health"   , "Range":"Melee"},
     "Akali" :       {"Species":"Female"     , "Nation":"Ionia"      ,"Position":"Mid"       , "Resource":"Energy"   , "Range":"Melee"},
-    "Aatrox" :      {"Species":"Darkin"     , "Nation":"Shurima"    ,"Position":"Top"       , "Resource":"No Mana"  , "Range":"Melee"},
+    "Aatrox" :      {"Species":"Darkin,Male"     , "Nation":"Shurima"    ,"Position":"Top"       , "Resource":"No Mana"  , "Range":"Melee"},
     "Ashe" :        {"Species":"Female"     , "Nation":"Freljord"   ,"Position":"ADC"       , "Resource":"Mana"     , "Range":"Ranged"},
     "Gangplank" :   {"Species":"Male"       , "Nation":"Bilgewater" ,"Position":"Top"       , "Resource":"Mana"     , "Range":"Melee"},
     "Kai'sa" :      {"Species":"Female"     , "Nation":"Void"       ,"Position":"ADC"       , "Resource":"Mana"     , "Range":"Ranged"},
